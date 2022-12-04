@@ -18,7 +18,7 @@ This is my portfolio of my three group projects from the bootcamp, created with 
 
 ** Website and Github **
 - https://github.com/spencerjpross/react-website
-- 
+- https://spencerjpross.github.io/react-website/
 
 ** Installation and starting up app **
 - npm i
